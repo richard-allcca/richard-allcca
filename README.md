@@ -143,7 +143,7 @@ estatus pequeño
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&show_icons=true&hide_border=true) -->
 <a href="https://github.com/AVS1508">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=richard-allcca&theme=buefy&show_icons=true" />
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&theme=buefy&layout=compact" />
 </a>
 

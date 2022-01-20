@@ -1,4 +1,3 @@
-<!-- ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png) -->
 ### Hi there 👋
 Welcome to my Github page! I am Richard and I am currently a front end developer Junior!  
 
@@ -53,43 +52,55 @@ Here are some ideas to get you started:
 <p align="center">
 
 <code >
-<img width="15%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg">
+  <img width="15%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg">
 </code>
 <code >
-<img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 </code>
 <code>
-<img width="10%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"></code>
+  <img width="10%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"></code>
 <code>
 <img width="10%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg">
 </code>
+
 <br />
 <code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
+  <img width="13%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
 </code>
 <code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  <img width="13%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 </code>
+
 <br />
 <code>
-<img width="15%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
 </code>
 <code>
-<img width="11%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 </code>
-<code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-</code>
+
 <br />
 <code>
-<img width="11%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg">
+  <img width="15%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
 </code>
 <code>
-<img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img width="11%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 </code>
 <code>
-<img width="11%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 </code>
+
+<br />
+<code>
+  <img width="11%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg">
+</code>
+<code>
+  <img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+</code>
+<code>
+  <img width="11%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
+</code>
+
 <br/>
 <code>
 <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
@@ -97,10 +108,12 @@ Here are some ideas to get you started:
 <code>
 <img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
 </code>
+
 <br />
 <code>
 <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </code>
+
 </p>
 
 ---
@@ -108,30 +121,24 @@ Here are some ideas to get you started:
 ### - Languages and Tools pending to learning
 
 <p align="center">
-<code>
-<img width="13%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
-</code>
-<code>
+<!-- <code>
 <img width="13%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-</code>
-<code>
-<img width="13%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-</code>
- <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</code> -->
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
+	
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"> --> 
 
 </p>
 
@@ -157,3 +164,5 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 
 ---
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
+

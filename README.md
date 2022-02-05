@@ -1,5 +1,5 @@
-### Hi there 👋
-Welcome to my Github page! I am Richard and I am currently a front end developer Junior!  
+# Hi there 👋
+## Welcome to my Github page! I am Richard and I am currently a front end developer Junior!  
 
 <!--
 **richard-allcca/richard-allcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
+
 - 🔭 I’m currently working on proyects personal
 - 🌱 I’m currently learning Back-end whith Node
 - 💬 Ask me about front end developing
@@ -27,14 +28,14 @@ Here are some ideas to get you started:
 
 
 
-#### 🌱 Things I am currently working on: 
+### 🌱 Things I am currently working on: 
 - Finish my Node course whith MongoDb  
 - Taking online courses about Data Science and Machine Learning 
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
-#### :muscle: Things I am challenging myself with:
+### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 <br />
 
 
-### - Languages and Tools I use
+## - Languages and Tools I use
 <!-- #### :computer: Programming languages and tools:  -->
 <p align="center">
 

@@ -65,53 +65,53 @@ Here are some ideas to get you started:
 
 <br />
 <code>
-  <img width="13%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+  <img width="150px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
 </code>
 <code>
-  <img width="13%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-</code>
-
-<br />
-<code>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
-</code>
-<code>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  <img width="150px" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 </code>
 
 <br />
 <code>
-  <img width="15%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
+  <img width="150px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
 </code>
 <code>
-  <img width="11%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-</code>
-<code>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img width="150px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 </code>
 
 <br />
 <code>
-  <img width="11%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg">
+  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
 </code>
 <code>
-  <img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img width="150px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 </code>
 <code>
-  <img width="11%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
+  <img width="150px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+</code>
+
+<br />
+<code>
+  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg">
+</code>
+<code>
+  <img width="150px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+</code>
+<code>
+  <img width="150px" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
 </code>
 
 <br/>
 <code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+<img width="150px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
 </code>
 <code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
+<img width="150px" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
 </code>
 
 <br />
 <code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img width="150px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </code>
 
 </p>
@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 </code> -->
  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
 	
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:8px">
  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->

@@ -52,15 +52,15 @@ Here are some ideas to get you started:
 <p align="center">
 
 <code >
-  <img width="15%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg">
+  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg">
 </code>
 <code >
-  <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+  <img width="150px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 </code>
 <code>
-  <img width="10%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"></code>
+  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"></code>
 <code>
-<img width="10%" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg">
+<img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg">
 </code>
 
 <br />

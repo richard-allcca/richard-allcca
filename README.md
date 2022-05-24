@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 ### 🌱 Things I am currently working on: 
 - Finish my Node course whith MongoDb  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Taking online courses about English 
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
@@ -48,9 +47,9 @@ Here are some ideas to get you started:
 
 <br />
 
-
+<!-- 
 ## - Languages and Tools I use
-<!-- #### :computer: Programming languages and tools:  -->
+
 <p align="center">
 
 <code >
@@ -116,7 +115,7 @@ Here are some ideas to get you started:
 <img width="150px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </code>
 
-</p>
+</p> -->
 
 ---
 
@@ -151,20 +150,20 @@ estatus pequeño
 </p> -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&show_icons=true&hide_border=true) -->
-<a href="https://github.com/AVS1508">
+<!-- <a href="https://github.com/AVS1508">
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=richard-allcca&theme=buefy&show_icons=true" />
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/richard-allcca)
 
 ---
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/richard-allcca) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/allccallano) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/richard-allcca-llano/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](richard_allcca_llano@hotmail.com)
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter logo" width="34" />](https://twitter.com/allccallano)
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" width="34" />](https://github.com/richard-allcca)
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width="34" />](https://www.linkedin.com/in/richard-allcca-llano)
 
 <br/>
 
 ---
-![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
-
 

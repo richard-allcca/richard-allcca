@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Welcome to my Github page! 
-## I am Richard and I am currently a front end developer Junior!  
+## I am Richard and I am currently a front end developer!  
 
 <!--
 **richard-allcca/richard-allcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

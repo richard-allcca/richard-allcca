@@ -42,11 +42,6 @@ Here are some ideas to get you started:
 - Improving my CV with some education apart from class online
 
 
-
----
-
-<br />
-
 <!-- 
 ## - Languages and Tools I use
 
@@ -119,9 +114,6 @@ Here are some ideas to get you started:
 
 ---
 
-</p>
-
----
 <!-- <p>
 estatus pequeño
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=richard-allcca&show_icons=true&hide_border=true" />
@@ -137,8 +129,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 
 ---
 
+## Mis Redes
+
  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter logo" width="34" />](https://twitter.com/allccallano)
- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" width="34" />](https://github.com/richard-allcca)
  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width="34" />](https://www.linkedin.com/in/richard-allcca-llano)
 
 <br/>

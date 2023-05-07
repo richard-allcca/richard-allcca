@@ -40,14 +40,6 @@ Here are some ideas to get you started:
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/richard-allcca)
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=richard-allcca&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
@@ -59,4 +51,57 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 <br/>
 
 ---
+
+🛠️ Languages and Tools : <br/> <br/>
+ <!-- Lenguajes -->
+  <span>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML" alt="Html"
+      width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="Css" alt="CSS"
+      width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS"
+      width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"
+      title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+      title="Typescript" alt="Typescript" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" title="NodeJs"
+      alt="NodeJs" width="40" height="40" style="max-width: 100%" />
+  <!-- DDBB -->
+    <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" title="MongoDB"
+      alt="MongoDB" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" title="Postgres"
+      alt="Postgres" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql"
+      alt="MySql" width="40" height="40" style="max-width: 100%" />
+  <!-- Frameworks -->
+    <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React"
+      alt="React" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"
+      alt="Angular" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="Redux" alt="Redux"
+      width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJs" alt="NextJs"
+      width="40" height="40" style="max-width: 100%" fill="white" />
+  <!-- More -->
+    <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg"
+    title="Express" alt="Express" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"
+      alt="Docker" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
+      title="Firebase" alt="Firebase" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
+      title="VsCode" alt="VsCode" width="40" height="40" style="max-width: 100%" />
+  </span>
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=richard-allcca&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 

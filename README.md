@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 Things I am currently working on: 
-- Finish my Node course whith MongoDb  
+- Front-end Web Developer at Infobae  
 - Taking online courses about English 
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>

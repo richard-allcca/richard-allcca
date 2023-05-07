@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on proyects personal
 - 🌱 I’m currently learning Back-end whith Node
 - 💬 Ask me about front end developing
-- 📫 How to reach me:  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/richard-allcca)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-allcca-llano/)
-[![Gmail](https://img.shields.io/badge/-Hotmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Richard_allcca_llano@hotmail.com)
+- 📫 How to contact me: [![Gmail](https://img.shields.io/badge/-Hotmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Richard_allcca_llano@hotmail.com)
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
@@ -39,100 +36,25 @@ Here are some ideas to get you started:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from class online
 
-
-<!-- 
-## - Languages and Tools I use
-
-<p align="center">
-
-<code >
-  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg">
-</code>
-<code >
-  <img width="150px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-</code>
-<code>
-  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"></code>
-<code>
-<img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg">
-</code>
-
-<br />
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
-</code>
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-</code>
-
-<br />
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
-</code>
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
-</code>
-
-<br />
-<code>
-  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
-</code>
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-</code>
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-</code>
-
-<br />
-<code>
-  <img width="150px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg">
-</code>
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-</code>
-<code>
-  <img width="150px" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
-</code>
-
-<br/>
-<code>
-<img width="150px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-</code>
-<code>
-<img width="150px" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
-</code>
-
-<br />
-<code>
-<img width="150px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-</code>
-
-</p> -->
-
----
-
-<!-- <p>
-estatus pequeño
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=richard-allcca&show_icons=true&hide_border=true" />
-</p> -->
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&show_icons=true&hide_border=true) -->
-<!-- <a href="https://github.com/AVS1508">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=richard-allcca&theme=buefy&show_icons=true" />
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&theme=buefy&layout=compact" />
-</a> -->
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/richard-allcca)
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=richard-allcca&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ## Mis Redes
 
- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter logo" width="34" />](https://twitter.com/allccallano)
- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width="34" />](https://www.linkedin.com/in/richard-allcca-llano)
+ [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter logo" width="34" />](https://twitter.com/allccallano)
+ [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="twitter logo" width="34" />](https://www.linkedin.com/in/richard-allcca-llano/)
 
 <br/>
 

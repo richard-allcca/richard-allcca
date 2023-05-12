@@ -81,12 +81,12 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJs" alt="NextJs"
       width="40" height="40" style="max-width: 100%" fill="white" />
   <!-- More -->
-    <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg"
-    title="Express" alt="Express" width="40" height="40" style="max-width: 100%" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" style="max-width: 100%" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" style="max-width: 100%" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg"
+    title="Express" alt="Express" width="40" height="40" style="max-width: 100%" />
   </span>
 
 ---
@@ -97,5 +97,4 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->

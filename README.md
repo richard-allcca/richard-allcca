@@ -1,6 +1,8 @@
 # Hi there 👋
-## Welcome to my Github page! 
-## I am Richard and I am currently a front end developer!  
+
+## Welcome to my Github page
+
+## I am Richard and I am currently a front end developer  
 
 <!--
 **richard-allcca/richard-allcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +11,6 @@ Here are some ideas to get you started:
 
 -->
 <img align="right" alt="img" src="https://res.cloudinary.com/thouma/image/upload/v1632788548/dev-master_xqpsns.jpg" width="50%" height="auto" />
-
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
@@ -22,24 +23,20 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+### 🌱 Things I am currently working on
 
-
-
-
-### 🌱 Things I am currently working on: 
 - Front-end Web Developer at Infobae  
-- Taking online courses about English 
+- Taking online courses about English
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
-### :muscle: Things I am challenging myself with:
+### :muscle: Things I am challenging myself with
+
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 
-
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/richard-allcca)
-
 
 ---
 
@@ -86,14 +83,10 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
   <!-- More -->
     <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg"
     title="Express" alt="Express" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"
-      alt="Docker" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-      title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
-      title="Firebase" alt="Firebase" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
-      title="VsCode" alt="VsCode" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" style="max-width: 100%" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40" style="max-width: 100%" />
   </span>
 
 ---
@@ -104,4 +97,5 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ -->

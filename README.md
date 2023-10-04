@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
 
-- 🔭 I’m currently working on proyects personal
-- 🌱 I’m currently learning Back-end whith Node
+<!-- - 🔭 I’m currently working on proyects personal -->
+- 🌱 I’m currently working as a front-end web developer at Infobae
 - 💬 Ask me about front end developing
 - 📫 How to contact me: [![Gmail](https://img.shields.io/badge/-Hotmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Richard_allcca_llano@hotmail.com)
 
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ### :muscle: Things I am challenging myself with
 
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+<!-- - Waking up earlier to make good use of the day -->
+<!-- - Coding at least 4 hours a day -->
 - Exercising 3 days a week
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/richard-allcca)

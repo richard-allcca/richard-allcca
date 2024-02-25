@@ -41,7 +41,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 
 ## Mis Redes
 
- [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter logo" width="34" />](https://twitter.com/allccallano)
+ [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter logo" width="34" />]([https://twitter.com/allccallano](https://twitter.com/DiveritI))
  [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="twitter logo" width="34" />](https://www.linkedin.com/in/richard-allcca-llano/)
 
 <br/>

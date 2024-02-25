@@ -1,8 +1,7 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Richard</h1>
+<h3 align="center">A passionate frontend and backend developer from Perú</h3>
 
 ## Welcome to my Github page
-
-## I am Richard and I am currently a front end developer  
 
 <!--
 **richard-allcca/richard-allcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,43 +50,55 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 
 🛠️ Languages and Tools : <br/> <br/>
  <!-- Lenguajes -->
-  <span>
-    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML" alt="Html"
-      width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="Css" alt="CSS"
-      width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS"
-      width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"
-      title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
-      title="Typescript" alt="Typescript" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" title="NodeJs"
-      alt="NodeJs" width="40" height="40" style="max-width: 100%" />
-  <!-- DDBB -->
-    <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" title="MongoDB"
-      alt="MongoDB" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" title="Postgres"
-      alt="Postgres" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql"
-      alt="MySql" width="40" height="40" style="max-width: 100%" />
-  <!-- Frameworks -->
-    <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React"
-      alt="React" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"
-      alt="Angular" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="Redux" alt="Redux"
-      width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJs" alt="NextJs"
-      width="40" height="40" style="max-width: 100%" fill="white" />
-  <!-- More -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40" style="max-width: 100%" />
-    <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg"
-    title="Express" alt="Express" width="40" height="40" style="max-width: 100%" />
-  </span>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
+      src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a> <a
+    href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a> <a
+    href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
+    href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
+  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+      width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> <a
+    href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a> <a
+    href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript" width="40" height="40" /> </a>
+</p>
 
 ---
 

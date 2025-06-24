@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on proyects personal -->
 - 🌱 I’m currently working as a front-end web developer at Infobae
 - 💬 Ask me about front end developing
-- 📫 How to contact me: [![Gmail](https://img.shields.io/badge/-Hotmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Richard_allcca_llano@hotmail.com)
+- 📫 How to contact me: [![Gmail](https://badgen.net/badge/gmail/rallcca@gmail.com/red?icon=medium)](mailto:rallcca28@gmail.com)
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->

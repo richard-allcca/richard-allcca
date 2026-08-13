@@ -102,10 +102,10 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/r
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=richard-allcca&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=richard-allcca&theme=tokyonight)](https://git.io/streak-stats) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-allcca&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-allcca&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
